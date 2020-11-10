@@ -808,7 +808,7 @@ describe('Standard WKT Test Cases: ', function() {
 
     });
 
-    describe('Coverting WKT strings into objects: ', function() {
+    describe('Converting WKT strings into objects: ', function() {
 
         afterEach(function() {
             wkt.delimiter = ' ';
@@ -944,7 +944,7 @@ describe('Standard WKT Test Cases: ', function() {
 
     });
 
-    describe('Coverting GeoJSON Objects into google.maps Objects: ', function() {
+    describe('Converting GeoJSON Objects into google.maps Objects: ', function() {
 
         afterEach(function() {
             wkt.delimiter = ' ';
